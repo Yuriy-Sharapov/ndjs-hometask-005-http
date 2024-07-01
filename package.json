@@ -1,0 +1,20 @@
+{
+  "name": "ndjs-hometask-005-http",
+  "version": "1.0.0",
+  "description": "--------------------- Задание 1 --------------------- \r Ознакомиться с документацией API-сервиса weatherstack.",
+  "main": "index.js",
+  "bin": {
+    "weather": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
